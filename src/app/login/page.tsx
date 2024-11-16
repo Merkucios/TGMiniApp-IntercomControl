@@ -1,8 +1,8 @@
 import { LoginWidget } from '@/components/widgets';
 
-export default function Home() {
+export default function LoginPage() {
   return (
-    <div>
+    <div className="">
       <LoginWidget />
     </div>
   );
